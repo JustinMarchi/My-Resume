@@ -1,6 +1,8 @@
 # Site settings
-title: "My Coding Resume"
-description: "A resume for Justin focused on his coding experience/training"
+
+title: "JustinMarchi's Resume"
+description: "My Coding-Focused Resume"
+
 
 # Build settings
 markdown: kramdown
