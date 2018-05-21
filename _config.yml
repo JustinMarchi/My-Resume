@@ -1,6 +1,8 @@
 # Site settings
+
 title: "JustinMarchi's Resume"
 description: "My Coding-Focused Resume"
+
 
 # Build settings
 markdown: kramdown
